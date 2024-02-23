@@ -15,7 +15,11 @@
   }
 
   .imagem-aluno {
-    height: 320px;
+    height: 160px;
+    margin: 0 auto;
   }
   
-  
+  .depoimento-aluno {
+    text-align: center;
+    margin: 20px 0;
+  }
